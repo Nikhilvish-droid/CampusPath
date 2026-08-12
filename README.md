@@ -1,2 +1,2 @@
 # CampusPath
-a student advisory and consultancy project for sih
+a student advisory and consultancy project
